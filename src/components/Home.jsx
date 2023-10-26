@@ -2,7 +2,7 @@ import React from "react";
 import { useTypewriter } from "react-simple-typewriter";
 import { RiSendPlaneLine } from "react-icons/ri";
 import { BsEmojiHeartEyes } from "react-icons/bs";
-import Femi from "../assets/Raphael_Akinnigbagbe.docx ";
+import Femi from "../assets/Raphael_Akinnigbagbe.docx";
 
 import "./blob.css";
 import { Link } from "react-scroll";

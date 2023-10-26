@@ -12,7 +12,7 @@ const Footer = () => {
           <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com"
+      href: "https://www.linkedin.com/in/oluwafemiakin/"
       
     },
     {
@@ -40,7 +40,7 @@ const Footer = () => {
           <FaXTwitter size={30} />
         </>
       ),
-      href: "https://x.com",
+      href: "https://www.twitter.com/_fe_m_i_",
      
     },
   ];

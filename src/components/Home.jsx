@@ -2,7 +2,7 @@ import React from "react";
 import { useTypewriter } from "react-simple-typewriter";
 import { RiSendPlaneLine } from "react-icons/ri";
 import { BsEmojiHeartEyes } from "react-icons/bs";
-import Seyi from "../assets/OluwaseyiBayodeWebDevResume.pdf";
+import Femi from "../assets/Raphael_Akinnigbagbe.docx ";
 
 import "./blob.css";
 import { Link } from "react-scroll";
@@ -26,7 +26,7 @@ const Home = () => {
             flawless solutions.
           </p>
           <div className="my-4 flex">
-            <a href={Seyi} download={true}>
+            <a href={Femi} download={true}>
               <button className="group w-fit py-3 px-6 my-2 shadow bg-gray-800 text-white rounded-md flex items-center cursor-pointer">
                 View Resume
                 <span className="group-hover:rotate-90 duration-300 ml-1">

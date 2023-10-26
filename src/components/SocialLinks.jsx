@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com",
+      href: "https://www.linkedin.com/in/oluwafemiakin/",
       style: "rounded-tr-md",
     },
     {
@@ -40,7 +40,7 @@ const SocialLinks = () => {
           Twitter(X) <FaXTwitter size={30} />
         </>
       ),
-      href: "https://x.com",
+      href: "https://www.twitter.com/_fe_m_i_",
       style: "rounded-br-md"      
     },
   ];

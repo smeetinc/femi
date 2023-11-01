@@ -20,7 +20,7 @@ const About = () => {
         </div>
 
         <p className="text-l mt-20 mb-4">
-        Welcome to my digital space! I am Oluwafemi Akinnigbagbe, a distinguished software artisan with an extensive 10-year journey navigating the intricate realms of software development and testing. Nestled in the heart of London, my passion for crafting seamless digital experiences is rivaled only by my dedication to perfection. With a keen eye for detail and a knack for unraveling complex coding puzzles, I have contributed my expertise to an array of prominent enterprises, leaving an indelible mark of excellence.
+        Welcome to my digital space! I am Oluwafemi Akinnigbagbe, a distinguished software artisan with an extensive 5-year journey navigating the intricate realms of software development and testing. Nestled in the heart of London, my passion for crafting seamless digital experiences is rivaled only by my dedication to perfection. With a keen eye for detail and a knack for unraveling complex coding puzzles, I have contributed my expertise to an array of prominent enterprises, leaving an indelible mark of excellence.
         </p>
 
         <br />

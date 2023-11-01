@@ -22,7 +22,7 @@ const Home = () => {
           <h1 className="font-bold text-4xl">Oluwafemi Akinnigbagbe</h1>
           <h3 className="font-bold text-2xl py-2">A Software {typeEffect}</h3>
           <p className="">
-            With 10+ years experience and trusted by leading companies for
+            With 5 years experience and trusted by leading companies for
             flawless solutions.
           </p>
           <div className="my-4 flex">

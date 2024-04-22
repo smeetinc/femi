@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+/* import React, { useEffect } from "react";
 import project from "../assets/portfolio/project.png";
 import project2 from "../assets/portfolio/project2.png";
 import project3 from "../assets/portfolio/project3.png";
@@ -97,3 +97,4 @@ const Projects = () => {
 };
 
 export default Projects;
+ */

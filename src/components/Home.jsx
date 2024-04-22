@@ -19,7 +19,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col-reverse justify-between items-center md:flex-row py-20">
         <div className="lg:mx-10 px-4 md:max-w-50 my-auto">
           <p>Hello, I'm</p>
-          <h1 className="font-bold text-4xl">Oluwafemi Akinnigbagbe</h1>
+          <h1 className="font-bold text-4xl">Raphael Oluwafemi Akinnigbagbe</h1>
           <h3 className="font-bold text-2xl py-2">A Software {typeEffect}</h3>
           <p className="">
             With 5 years experience and trusted by leading companies for

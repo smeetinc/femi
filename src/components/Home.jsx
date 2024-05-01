@@ -16,7 +16,7 @@ const Home = () => {
   });
   return (
     <div name="home" className="bg-slate-100 h-fit md:h-screen md:pt-10 w-full">
-      <div className="w-full mx-auto flex flex-col-reverse justify-between items-center md:flex-row py-20 my-auto px-2 lg:px-10">
+      <div className="w-full mx-auto flex flex-col-reverse justify-between items-center md:flex-row py-20 my-auto px-2 lg:px-10 xl:px-16 2xl:px-20 ">
         <div className="lg:mx-10 px-4 md:w-1/2 my-auto">
           <p>Hello, I'm</p>
           <h1 className="font-bold text-4xl">Raphael Oluwafemi Akinnigbagbe</h1>

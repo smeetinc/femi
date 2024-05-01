@@ -2,15 +2,10 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div
-      name="contact"
-      className="w-full h-fit pt-24 bg-slate-100 py-4"
-    >
-      <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
+    <div name="contact" className="w-full h-fit pt-24 bg-slate-100 py-4">
+      <div className="flex flex-col py-4 justify-center w-full px-2 lg:px-20 mx-auto h-full">
         <div className="pb-8 text-center">
-          <h2 className="text-4xl font-bold inline">
-            Contact
-          </h2>
+          <h2 className="text-4xl font-bold inline">Contact</h2>
           <p className="py-6">Submit the form below to get in touch with me</p>
         </div>
 

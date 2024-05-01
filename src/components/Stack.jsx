@@ -8,13 +8,13 @@ import nextjs from "../assets/nextjs.png";
 import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-import AOS from 'aos';
-import '../aos/dist/aos.css';
+import AOS from "aos";
+import "../aos/dist/aos.css";
 
 const Stack = () => {
-  useEffect(()=> {
-    AOS.init({duration:1200});
-  }, [])
+  useEffect(() => {
+    AOS.init({ duration: 1200 });
+  }, []);
   const techs = [
     {
       id: 1,
@@ -71,19 +71,16 @@ const Stack = () => {
       name="stack"
       className="bg-gradient-to-b from-gray-800 to-black w-full h-fit pt-24"
     >
-      <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
+      <div className=" mx-auto py-4 px-2 lg:px-20 flex flex-col justify-center w-full h-full text-white">
         <div data-aos="zoom-in" className="text-center">
-          
           <p>Check out my Tech</p>
-          <h2 className="text-4xl font-bold p-2 inline">
-            Stack
-          </h2>
-          
+          <h2 className="text-4xl font-bold p-2 inline">Stack</h2>
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">
           {techs.map(({ id, src, title, style }) => (
-            <div data-aos="zoom-in"
+            <div
+              data-aos="zoom-in"
               key={id}
               className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}
             >

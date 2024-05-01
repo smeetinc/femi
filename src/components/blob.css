@@ -1,11 +1,11 @@
 .blob {
-  background-image: url(../assets/heroImage.png);
+  background-image: url(../assets/raph.webp);
   width: 20rem;
   height: 20rem;
   background-size: cover;
   background-position: center center;
   margin: 20px;
-  box-shadow: 0 5px 5px 5px rgba(13, 110, 253, 0.6);
+  box-shadow: 0 5px 5px 5px rgba(31, 41, 55, 0.9);
   animation: animate 5s ease-in-out infinite;
   transition: all 1s ease-in-out;
 }
